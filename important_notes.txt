@@ -1,3 +1,4 @@
 Important Notes for Project
 - Initial thought 1
 - Updated thought 2 for main
+- Another thought 2 from branch 2
